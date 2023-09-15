@@ -95,6 +95,11 @@ public class Peluqueria1 extends javax.swing.JFrame {
         jButton7 = new javax.swing.JButton();
         jButton5 = new javax.swing.JButton();
         jButton6 = new javax.swing.JButton();
+        jLabel18 = new javax.swing.JLabel();
+        jLabel19 = new javax.swing.JLabel();
+        jLabel20 = new javax.swing.JLabel();
+        jLabel21 = new javax.swing.JLabel();
+        jLabel22 = new javax.swing.JLabel();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         jMenu2 = new javax.swing.JMenu();
@@ -102,8 +107,10 @@ public class Peluqueria1 extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
+        jLabel1.setBackground(new java.awt.Color(204, 255, 204));
+        jLabel1.setForeground(new java.awt.Color(0, 0, 0));
         jLabel1.setText("Universidad De Cundinamarca- Extencion Facatativa");
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(321, 6, 286, 42));
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 0, 286, 42));
 
         jLabel8.setText("Corte de caballero");
 
@@ -623,6 +630,21 @@ public class Peluqueria1 extends javax.swing.JFrame {
         });
         getContentPane().add(jButton6, new org.netbeans.lib.awtextra.AbsoluteConstraints(791, 87, -1, -1));
 
+        jLabel18.setText("Bienvenidos a nuestra peluqueria, se le cobrara :");
+        getContentPane().add(jLabel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 40, 260, -1));
+
+        jLabel19.setText("15000$ por peinado");
+        getContentPane().add(jLabel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 60, -1, -1));
+
+        jLabel20.setText("8000$ por corte caballero");
+        getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 40, -1, -1));
+
+        jLabel21.setText("10500$ por corte de dama");
+        getContentPane().add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 40, -1, -1));
+
+        jLabel22.setText("40000$ por tintura");
+        getContentPane().add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 60, -1, -1));
+
         jMenu1.setText("File");
         jMenuBar1.add(jMenu1);
 
@@ -904,7 +926,12 @@ public class Peluqueria1 extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel15;
     private javax.swing.JLabel jLabel16;
     private javax.swing.JLabel jLabel17;
+    private javax.swing.JLabel jLabel18;
+    private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel20;
+    private javax.swing.JLabel jLabel21;
+    private javax.swing.JLabel jLabel22;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel31;
     private javax.swing.JLabel jLabel32;
