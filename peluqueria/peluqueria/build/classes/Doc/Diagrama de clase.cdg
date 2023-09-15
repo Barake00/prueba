@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="peluqueria">
+  <ClassDiagramComponents>
+    <Class name="Peluqueria1" package="peluqueria" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="cca" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="ccj" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="ccl" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="ccr" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="cda" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="cdj" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="cdl" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="cdr" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="jButton1" type="javax.swing.JButton" visibility="private"/>
+        <Field name="jButton2" type="javax.swing.JButton" visibility="private"/>
+        <Field name="jButton3" type="javax.swing.JButton" visibility="private"/>
+        <Field name="jButton4" type="javax.swing.JButton" visibility="private"/>
+        <Field name="jButton5" type="javax.swing.JButton" visibility="private"/>
+        <Field name="jButton6" type="javax.swing.JButton" visibility="private"/>
+        <Field name="jButton7" type="javax.swing.JButton" visibility="private"/>
+        <Field name="jLabel1" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel10" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel11" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel12" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel13" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel14" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel15" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel16" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel17" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel2" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel3" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel31" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel32" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel33" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel34" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel35" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel36" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel37" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel38" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel39" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel4" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel40" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel41" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel42" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel43" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel44" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel45" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel46" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel47" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel48" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel49" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel5" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel50" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel51" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel6" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel7" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel8" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jLabel9" type="javax.swing.JLabel" visibility="private"/>
+        <Field name="jMenu1" type="javax.swing.JMenu" visibility="private"/>
+        <Field name="jMenu2" type="javax.swing.JMenu" visibility="private"/>
+        <Field name="jMenuBar1" type="javax.swing.JMenuBar" visibility="private"/>
+        <Field name="jPanel1" type="javax.swing.JPanel" visibility="private"/>
+        <Field name="jPanel2" type="javax.swing.JPanel" visibility="private"/>
+        <Field name="jPanel5" type="javax.swing.JPanel" visibility="private"/>
+        <Field name="jPanel6" type="javax.swing.JPanel" visibility="private"/>
+        <Field name="jPanel7" type="javax.swing.JPanel" visibility="private"/>
+        <Field name="pa" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="pj" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="pl" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="pr" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="tca" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="tcj" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="tcl" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="tcr" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="tra" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="trj" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="trl" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="trr" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="tsa" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="tsj" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="tsl" type="javax.swing.JTextField" visibility="private"/>
+        <Field name="tsr" type="javax.swing.JTextField" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="initComponents" returnType="// &lt;editor-fold defaultstate=&quot;collapsed&quot; desc=&quot;Generated Code&quot;&gt;//GEN-BEGIN:initComponents
+void" visibility="private"/>
+        <Method name="jButton1ActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="trrActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="cdrActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="prActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="tsrActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="ccrActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="jButton2ActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="jButton3ActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="jButton4ActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="jButton5ActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="jButton6ActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="jButton7ActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="ccaActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="cdaActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="tcaActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="paActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="tsaActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="traActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="cclActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="trlActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="tsjActionPerformed" returnType="void" visibility="private">
+          <Argument type="java.awt.event.ActionEvent" name="evt"/>
+        </Method>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Persona" package="peluqueria" visibility="public" xPosition="320.0" yPosition="20.0">
+      <Fields>
+        <Field name="corteCabello" type="int" visibility="private"/>
+        <Field name="corteDama" type="int" visibility="private"/>
+        <Field name="tinturaCabello" type="int" visibility="private"/>
+        <Field name="peinado" type="int" visibility="private"/>
+        <Field name="totalServicios" type="int" visibility="private"/>
+        <Field name="totalRecaudo" type="int" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="int" name="corteCabello"/>
+          <Argument type="int" name="peinado"/>
+          <Argument type="int" name="corteDama"/>
+          <Argument type="int" name="tinturCabello"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="SetcorteCabello" returnType="void" visibility="public">
+          <Argument type="int" name="corteCabello"/>
+        </Method>
+        <Method name="GetcorteCabello" returnType="int" visibility="public"/>
+        <Method name="SetcorteDama" returnType="void" visibility="public">
+          <Argument type="int" name="corteDama"/>
+        </Method>
+        <Method name="GetcorteDama" returnType="int" visibility="public"/>
+        <Method name="SettinturaCabello" returnType="void" visibility="public">
+          <Argument type="int" name="tinturaCabello"/>
+        </Method>
+        <Method name="gettinturaCabello" returnType="int" visibility="public"/>
+        <Method name="Setpeinado" returnType="void" visibility="public">
+          <Argument type="int" name="peinado"/>
+        </Method>
+        <Method name="Getpeinado" returnType="int" visibility="public"/>
+        <Method name="SettotalServicios" returnType="void" visibility="public">
+          <Argument type="int" name="totalServicios"/>
+        </Method>
+        <Method name="GettotalServicios" returnType="int" visibility="public"/>
+        <Method name="SettotalRecaudo" returnType="void" visibility="public">
+          <Argument type="int" name="totalRecaudo"/>
+        </Method>
+        <Method name="GettotalRecaudo" returnType="int" visibility="public"/>
+        <Method name="datos" returnType="void" visibility="public"/>
+        <Method name="registrarDatos" returnType="void" visibility="public"/>
+        <Method name="clone" returnType="Object" visibility="protected"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <IsRelation name="is" source="peluqueria.Persona" target="peluqueria.Peluqueria1"/>
+  </ClassDiagramRelations>
+</ClassDiagram>
